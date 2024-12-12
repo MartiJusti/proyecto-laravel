@@ -1,0 +1,1 @@
+<?php /**PATH /home/marmarjus/Asignaturas/DWES/2º Trimestre/Ejercicios/LaravelMarcos/resources/views/events/store.blade.php ENDPATH**/ ?>
